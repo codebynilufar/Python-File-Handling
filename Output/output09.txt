@@ -1,0 +1,14 @@
+5 1 xona 
+10 2 xona 
+3 1 xona 
+22 2 xona 
+7 1 xona 
+2 1 xona 
+12 2 xona 
+43 2 xona 
+65 2 xona 
+534 3 xona 
+532 3 xona 
+4 1 xona 
+8 1 xona 
+76 2 xona 
